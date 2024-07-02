@@ -1,1 +1,1 @@
-# Dicas-Ter-Base-S-lida-em-Python
+# Dicas-Ter-Base-Solida-em-Python
