@@ -1,4 +1,4 @@
-#Dicas para ter base sólida em Python
+#Dicas para ter base sólida em Python #
 Bem-vindo ao repositório "Dicas para ter base sólida em Python". Este repositório foi criado para ajudar desenvolvedores iniciantes a construir uma base sólida em Python. Aqui você encontrará uma coleção de exercícios e exemplos práticos que abrangem diversos conceitos fundamentais da linguagem Python.
 
 Estrutura do Repositório
