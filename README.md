@@ -19,3 +19,16 @@ O repositório está organizado em diferentes pastas, cada uma focada em um tóp
 1. **Clone o Repositório**:
    ```bash
    git clone https://github.com/seu-usuario/dicas-para-ter-base-solida-em-python.git
+
+2. **Navegue até a Pasta Desejada**:
+   cd dicas-para-ter-base-solida-em-python/NOME_DA_PASTA
+3. Execute os Exercícios: Abra os arquivos de exercícios no seu editor de texto ou IDE preferido e comece a praticar!
+
+## Contribuindo
+Se você deseja contribuir com este repositório, fique à vontade para abrir uma pull request com seus exercícios ou melhorias. Vamos construir juntos uma comunidade forte de desenvolvedores Python!
+
+### Contato
+Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
+
+Email: arthurluizvieiray@gmail.com
+LinkedIn: https://www.linkedin.com/in/arthurluizvieirayokomizo/
